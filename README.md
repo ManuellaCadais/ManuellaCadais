@@ -44,6 +44,7 @@ Além dos estudos, gosto de pensar em como a tecnologia pode resolver problemas 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuellaCadais&theme=default"/>
 </p>
+
 ---
 
 ## 📊 Atividade Recente
