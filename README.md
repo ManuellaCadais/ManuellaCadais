@@ -50,7 +50,7 @@ Além dos estudos, gosto de pensar em como a tecnologia pode resolver problemas 
 ## 📊 Atividade Recente
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=seuusuario&theme=light" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?user=ManuellaCadais&theme=light" />
 </p>
 
 ---
