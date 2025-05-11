@@ -33,8 +33,8 @@ Além dos estudos, gosto de pensar em como a tecnologia pode resolver problemas 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=7&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManuellaCadais&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuellaCadais&layout=compact&langs_count=7&theme=default"/>
 </p>
 
 ---
@@ -42,9 +42,8 @@ Além dos estudos, gosto de pensar em como a tecnologia pode resolver problemas 
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=default"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuellaCadais&theme=default"/>
 </p>
-
 ---
 
 ## 📊 Atividade Recente
