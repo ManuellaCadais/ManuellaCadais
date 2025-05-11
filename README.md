@@ -47,12 +47,4 @@ Além dos estudos, gosto de pensar em como a tecnologia pode resolver problemas 
 
 ---
 
-## 📊 Atividade Recente
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?user=ManuellaCadais&theme=light" />
-</p>
-
----
-
 ✨ Obrigada por visitar meu perfil! Estou animada para compartilhar minha jornada no mundo dos dados :)
